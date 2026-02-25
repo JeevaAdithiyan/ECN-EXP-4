@@ -34,21 +34,10 @@ It is the look-back resistance across the load terminals when all the sources ar
  
 **CIRCUIT DIAGRAM: VERIFICATION OF THEVENIN’S THEOREM**
 
-To measure IL
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/add4f0e0-4689-4de6-aa44-c6ac22f8f964" />
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/46ddca08-f1a5-4e58-b9e3-4da08a6e25f1" />
 
-<img width="469" height="143" alt="image" src="https://github.com/user-attachments/assets/a89d6d2b-c628-434d-961f-3ae03e200d8e" />
 
-To measure RTh or RN
-
-<img width="360" height="139" alt="image" src="https://github.com/user-attachments/assets/4a0cd230-205b-48ad-ab08-f359aaf192a6" />
-
-To measure VTh or Voc
-
-<img width="452" height="142" alt="image" src="https://github.com/user-attachments/assets/b0bb48a9-90fe-4979-a3fe-4e41c67239ce" />
-
-Thevenin’s equivalent circuit
-
-<img width="313" height="164" alt="image" src="https://github.com/user-attachments/assets/2de70f30-9d20-46c2-a05d-2cf793137885" />
 
 
 **PROCEDURE:**
@@ -76,5 +65,10 @@ Thevenin’s equivalent circuit
 11.	Calculate the IL value using the formula
     Thevenin’s Theorem IL = VTh/ ( RTh+ R L)
     Norton’s Theorem IL = IN * RN / ( RN + RL )
+**TABULAR COLUMN AND MARKSPLITUP**
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/0dac0bd9-6edf-4edb-8f52-fc76d5c0fc25" />
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/a13cf1e9-61ec-4fe4-9080-9816c340997a" />
+<img width="1148" height="1007" alt="image" src="https://github.com/user-attachments/assets/abc3c991-0027-4e40-940e-b1fe03bf1bed" />
 
-13.	Theoretically verify the Norton’s theorem.
+**RESULT**
+Thus,Thevenin's theorem are verified pratically and theoretically.
